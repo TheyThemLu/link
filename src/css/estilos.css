@@ -39,3 +39,10 @@ body
     font-size: 18px;
     text-align: center;
 }
+
+.rodape 
+{
+    text-align: center;
+    font-size: 10px;
+    color: #515358;
+}
